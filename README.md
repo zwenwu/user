@@ -1,6 +1,8 @@
 # user
 practice git
 2
+=======
+3
 china is no.1
 hello world!
 
