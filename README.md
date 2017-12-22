@@ -2,6 +2,7 @@
 practice git
 
 china is no.1
+hello world!
 
 hello everybody i am master
 this is change by git line 
