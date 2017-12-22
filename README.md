@@ -7,3 +7,4 @@ this is change by git line
 powerful?nothing happen
 local realase
 orign -realase
+echo "aho"
